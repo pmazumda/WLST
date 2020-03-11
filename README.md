@@ -1,2 +1,2 @@
 # WLST
-WLST artifacts to be checkedin
+WLST scripts to be checked in
